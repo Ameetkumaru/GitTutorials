@@ -1,1 +1,1 @@
-First file for git 1.
+First file for git 2.
